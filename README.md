@@ -2,7 +2,7 @@
 #  Emoji em C#
 ![](https://img.shields.io/badge/.NET-6.0-blue) ![](https://img.shields.io/badge/NuGuet-Spectre.Console-PURPLE)
 
-Exemplo Emoji em .NET C# COnsole Aplication
+Exemplo Emoji em .NET C# Console Aplication
 
 ## Dependência:
 * SDK .NET 6.0
